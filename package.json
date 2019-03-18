@@ -4,7 +4,8 @@
   "description": "1. fungerade med https://www.typescriptlang.org/docs/handbook/react-&-webpack.html",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
   },
   "author": "",
   "license": "ISC",
