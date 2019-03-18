@@ -1,0 +1,35 @@
+{
+  "name": "react-typescript-ui-fabric2",
+  "version": "1.0.0",
+  "description": "1. fungerade med https://www.typescriptlang.org/docs/handbook/react-&-webpack.html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.3.4",
+    "@babel/plugin-proposal-class-properties": "^7.3.4",
+    "@babel/plugin-proposal-object-rest-spread": "^7.3.4",
+    "@babel/plugin-transform-async-to-generator": "^7.3.4",
+    "@babel/preset-env": "^7.3.4",
+    "@babel/preset-react": "^7.0.0",
+    "@babel/preset-typescript": "^7.3.3",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.5",
+    "source-map-loader": "^0.2.4",
+    "typescript": "^3.3.3333",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.2.5",
+    "@types/react": "^16.8.8",
+    "@types/react-dom": "^16.8.2",
+    "office-ui-fabric-react": "^6.157.0",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "whatwg-fetch": "^3.0.0"
+  }
+}
