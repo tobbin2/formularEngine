@@ -1,0 +1,122 @@
+{
+    
+    "forms":[
+        {
+            "type":"section",
+            "title":"section1"
+        },
+        {
+            "type":"textField",
+            "required":true,
+            "information":"some information text 1",
+            "title":"title1",
+            "icon":"Mail",
+            "id":"0"
+        },
+        {
+            "type":"textField",
+            "required":true,
+            "information":"some information text 2 djawdawhdawhfjawldaw  dmwakd dwaöhfoawdafahdlafudhafdlafdafjdafhoda  jdwajdawjdaw hfladadwl jdwadjwaidjwp",
+            "title":"title2",
+            "multi":true,
+            "description":"write something!!!",
+            "id":"1"
+        },
+        {
+            "type":"textField",
+
+            "required":true,
+            "information":"some information text 3jdajdwladlwadjwadwhaudofwajawjdawhofijawidjawiodjawijdpwoadjawpdjw",
+            "title":"title3",
+            "values":["1","2","3","4"],
+            "id":"2"
+        },
+        {
+            "type":"section",
+            "title":"section2"
+        },
+        {
+            "type":"textField",
+            "required":false,
+            "information":"this is more info, for some rease",
+            "title":"name ald",
+            "icon":"ReminderPerson",
+            "id":"3"
+        },
+        {
+            "type":"textField",
+
+            "information":"dwadwada",
+            "title":"choose ice cream flavour",
+            "values":["banana","vanilla","chocolate","pear","other"],
+            "id":"4"
+        },
+        {
+            "type":"textField",
+
+            "information":"ald",
+            "title":"chose your favorite",
+            "values":["radio1","radio2","radio3","radio4","radio5"],
+            "required":true,
+            "id":"5"
+        },
+        {
+            "type":"textField",
+
+            "information":"dwadwadwa",
+            "title":"chose date please",
+            "required":true,
+            "id":"6"
+        },
+        {
+            "type":"textField",
+
+            "information":"theInfo of personapciker",
+            "title":"picka an person",
+            "required":false,
+            "id":"7",
+            "values":[{"name":"robin sauma", "email":"robin_sauma@hotmail.com"},{"name":"kalle anka","email":"kalle.anka@duckduckgo.com"},{"name":"thelegend27 whut ald", "email":"theLegend27@hotmail.com"},{"name":"tobbin 2"},{"name":"some name","email":"secret"}]
+        },
+        {
+            "type":"textField",
+
+            "information":"this is the info",
+            "title":"rate this app",
+            "required":true,
+            "id":"8"
+        },
+        {
+            "type":"textField",
+
+            "information":"theInfo",
+            "title":"number",
+            "required":true,
+            "id":"9",
+            "max":100
+        },
+        {
+            "type":"textField",
+
+            "information":"tthis is the combobox",
+            "title":"combobox",
+            "id":"10",
+            "required":true,
+            "values":[{"text":"div A","itemType":"header"},{"text":"option 1"},{"text":"option 2"},{"text":"option 3"},{"text":"div","itemType":"divider"},{"text":"div B","itemType":"header"},{"text":"option 1"},{"text":"option 2"}]
+        },
+        {
+            "type":"textField",
+
+            "information":"this is the slider",
+            "title":"slidertitle",
+            "id":"11",
+            "max":200
+        },
+        {
+            "type":"textField",
+            "information":"this is the spinButton!",
+            "title":"spinButton title",
+            "id":"12",
+            "max":100
+        }
+    ]
+}

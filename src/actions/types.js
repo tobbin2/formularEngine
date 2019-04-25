@@ -1,0 +1,5 @@
+export const form1 = 'form1'
+export const form2 = 'form2'
+export const form3 = 'form3'
+export const form4 = 'form4'
+export const form5 = 'form5'

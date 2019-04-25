@@ -1,0 +1,19 @@
+{
+    "forms":[
+        {
+            "type":"dropDown",
+            "required":true,
+            "information":"some information text 3jdajdwladlwadjwadwhaudofwajawjdawhofijawidjawiodjawijdpwoadjawpdjw",
+            "title":"title3",
+            "multi":true,
+            "values":["1","2","3","4"],
+            "id":"1"
+        },
+        {
+            "type":"checkBox",
+            "id":"2",
+            "information":"checkbox information",
+            "values":["checkbox1","checkbox2","checkbox3","checkbox4","checkbox5"]
+        }
+    ]
+}
